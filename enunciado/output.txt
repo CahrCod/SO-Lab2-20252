@@ -1,0 +1,18 @@
+total 64
+drwxrwxrwt 11 root        root        4096 Oct 26 19:06 .
+drwxr-xr-x 27 root        root        4096 Oct 26 15:36 ..
+drwxrwxrwx  2 root        root          60 Oct 26 15:36 .X11-unix
+-rw-r--r--  1 andreyhenao andreyhenao   38 Oct 26 18:45 inspect_batch.txt
+-rw-r--r--  1 andreyhenao andreyhenao   22 Oct 26 18:45 inspect_err.txt
+-rw-r--r--  1 andreyhenao andreyhenao  156 Oct 26 18:45 inspect_out.txt
+-rw-r--r--  1 andreyhenao andreyhenao   22 Oct 26 18:47 rt_err.txt
+-rw-r--r--  1 andreyhenao andreyhenao  541 Oct 26 18:47 rt_out.txt
+-rw-r--r--  1 andreyhenao andreyhenao   28 Oct 26 18:47 run_tests_batch.txt
+drwx------  2 root        root        4096 Oct 26 15:36 snap-private-tmp
+drwx------  3 root        root        4096 Oct 26 15:46 systemd-private-d204219678f64d6bbfc73a5676cee932-polkit.service-u847zT
+drwx------  3 root        root        4096 Oct 26 15:37 systemd-private-d204219678f64d6bbfc73a5676cee932-systemd-logind.service-6N5N2P
+drwx------  3 root        root        4096 Oct 26 15:36 systemd-private-d204219678f64d6bbfc73a5676cee932-systemd-resolved.service-fzLTK7
+drwx------  3 root        root        4096 Oct 26 15:36 systemd-private-d204219678f64d6bbfc73a5676cee932-systemd-timesyncd.service-JWdRKv
+drwx------  3 root        root        4096 Oct 26 15:37 systemd-private-d204219678f64d6bbfc73a5676cee932-wsl-pro.service-kQfDyS
+drwxr-xr-x  2 andreyhenao andreyhenao 4096 Oct 26 19:03 vscode-typescript1000
+drwxr-xr-x  2 andreyhenao andreyhenao 4096 Oct 26 19:13 {9219C59E-F2CB-4EF1-9AA4-D24966702437}
